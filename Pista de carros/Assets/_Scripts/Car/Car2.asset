@@ -15,6 +15,6 @@ MonoBehaviour:
   speed: 550
   brakeForce: 670
   angle: 20
-  carImage: {fileID: 21300000, guid: b66acda4257d3294d8f10bdcb1038e74, type: 3}
+  videoClip: {fileID: 32900000, guid: 88ccc269c6331ad4186a2be1023975f5, type: 3}
   carName: El Propio
-  carPrefab: {fileID: 0}
+  carPrefab: {fileID: 5655990894392435301, guid: a7686d44a285e154b8083a39ce213602, type: 3}

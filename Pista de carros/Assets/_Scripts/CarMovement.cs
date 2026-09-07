@@ -141,7 +141,7 @@ public class CarMovement : MonoBehaviour
         // 3. Si es lentitud (multiplicador menor a 1), frenamos el carro reduciendo su velocidad física
         else if (multiplier < 1f)
         {
-            _rb.velocity = _rb.velocity * 0.3f; // Corta la inercia de golpe
+            _rb.linearVelocity = _rb.linearVelocity * 0.3f; // Corta la inercia de golpe
         }
         
         yield return new WaitForSeconds(duration);

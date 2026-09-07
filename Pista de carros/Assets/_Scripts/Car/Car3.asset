@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51378198bfd0fd4478d3896ec1438c05, type: 3}
   m_Name: Car3
   m_EditorClassIdentifier: 
-  speed: 700
+  speed: 1500
   brakeForce: 650
   angle: 20
-  carImage: {fileID: 21300000, guid: b66acda4257d3294d8f10bdcb1038e74, type: 3}
+  videoClip: {fileID: 32900000, guid: f8edb1ae41d6f6449878bb9a1b8dda71, type: 3}
   carName: El Afanes
-  carPrefab: {fileID: 0}
+  carPrefab: {fileID: 4769358150434139666, guid: 7d0a83b3fe008b64d90e515da008cd5c, type: 3}

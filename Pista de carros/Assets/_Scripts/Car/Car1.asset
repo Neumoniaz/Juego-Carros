@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: Car1
   m_EditorClassIdentifier: 
   speed: 430
-  brakeForce: 550
-  angle: 15
-  carImage: {fileID: 21300000, guid: b66acda4257d3294d8f10bdcb1038e74, type: 3}
+  brakeForce: 200
+  angle: 2
+  videoClip: {fileID: 32900000, guid: 02640bea3cc38284c889f3ab7a150b8c, type: 3}
   carName: La Gorda
-  carPrefab: {fileID: 4483076672410770160, guid: 8304fb2bfa671cd4ba817fb307db8b99,
-    type: 3}
+  carPrefab: {fileID: 8821511852722278621, guid: 4b43aa0b15b87034c9dc8b8387689956, type: 3}

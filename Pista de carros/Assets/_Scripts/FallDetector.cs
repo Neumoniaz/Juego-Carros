@@ -34,7 +34,7 @@ public class FallDetector : MonoBehaviour
     public void RespawnearCarro()
     {
         // 1. Apagamos momentáneamente las físicas para que el carro no salga disparado al moverlo
-        _rb.velocity = Vector3.zero;
+        _rb.linearVelocity = Vector3.zero;
         _rb.angularVelocity = Vector3.zero;
 
         // 2. Devolvemos el carro a las coordenadas del último checkpoint guardado
